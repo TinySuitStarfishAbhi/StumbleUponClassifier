@@ -9,7 +9,7 @@ https://www.kaggle.com/c/stumbleupon/overview
 2. The submission csv file
 3. A PDF file describing my detailed approach to tackle this challenge!
 
-### I utilize the following packages and libraries:
+### I utilize the following packages,libraries and frameworks:
 * [Numpy](https://numpy.org/)
 * [Pandas](https://pandas.pydata.org/)
 * [Sklearn](https://scikit-learn.org/stable/)
